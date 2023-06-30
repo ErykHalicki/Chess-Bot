@@ -7,7 +7,7 @@ Chess Bot I wrote to learn about minimax, tree pruning and for fun
 
 Chess 1 was my first attemt to create the chess board from scratch using a pandas dataframe and python classes/objects to store information about pieces
 
-After reaching 700 lines of code and not much to show for it, I chose to restart using the python-chess library. This allowed me to focus on creating a capable chess bot instead of implementing the rules of chess; reinventing the wheel.
+After reaching 700 lines of code and still not haveing started on what I had actually set out to do, I chose to restart using the python-chess library. This allowed me to focus on creating a capable chess bot instead of implementing the rules of chess; reinventing the wheel.
 Also had some fun with the "soundtrack" I made.
 
 Overall, I learned a ton about pygame, minimax algorithms and recursion.
