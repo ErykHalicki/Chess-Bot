@@ -3,7 +3,7 @@ Chess Bot I wrote to learn about minimax, tree pruning and for fun
 
 honorable mention to [a similar, but much more advanced project](https://github.com/Stargor14/carnosaEngine) i attempted, but eventually scrapped
 
-That one tried to recreate this project, but with a heavy focus on machine learning and evolutionary neural networks / biomimetic algorithms
+That one tried to recreate this project, but with a heavy focus on machine learning and evolutionary neural networks / biomimetic algorithms. It ended up being a bit too ambitious for me at the moment
 
 ## Topics: Tree Search, computer graphics, Web API
 
