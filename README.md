@@ -1,6 +1,8 @@
 # Chess-Bot
 Chess Bot I wrote to learn about minimax, tree pruning and just to have fun
 
+please bear with the sarcastic editing of the demo video below, not sure what i was thinking
+
 [demo of the bot beating me](https://youtu.be/fSYszKYfbjE)
 
 Chess 1 was my first attemt to create the chess board from scratch using a pandas dataframe and python classes/objects to store information about pieces
