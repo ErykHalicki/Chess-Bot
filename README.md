@@ -1,5 +1,5 @@
 # Chess-Bot
-Chess Bot I wrote to learn about minimax, tree pruning and just to have fun
+Chess Bot I wrote to learn about minimax, tree pruning and for fun
 ## Topics: Tree Search, computer graphics, Web API
 
 [demo of the bot beating me]()
