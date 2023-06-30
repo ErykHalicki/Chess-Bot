@@ -1,5 +1,8 @@
 # Chess-Bot
 Chess Bot I wrote to learn about minimax, tree pruning and for fun
+
+honorable mention to [a much more advanced project](https://github.com/Stargor14/carnosaEngine) i attempted, but eventually scrapped
+
 ## Topics: Tree Search, computer graphics, Web API
 
 [demo of the bot beating me]()
