@@ -7,7 +7,8 @@ That one tried to recreate this project, but with a heavy focus on machine learn
 
 ## Topics: Tree Search, computer graphics, Web API
 
-[demo of the bot beating me]()
+[demo of the bot beating me](https://www.youtube.com/watch?v=ltoRKf2a5g4)
+
 ![screenshoit of board](temp.png)
 
 Chess 1 was my first attemt to create the chess board from scratch using a pandas dataframe and python classes/objects to store information about pieces
